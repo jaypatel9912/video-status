@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "687262055040",
+    "firebase_url": "https://music-d72bc.firebaseio.com",
+    "project_id": "music-d72bc",
+    "storage_bucket": "music-d72bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687262055040:android:c8e30aa0ad71f994",
+        "android_client_info": {
+          "package_name": "com.vidclips.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687262055040-mbnmd18efokt8nshjgmbpub4sndah1dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr59pLxxHp1opTgEdfy4kgRvkohUR3I9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
